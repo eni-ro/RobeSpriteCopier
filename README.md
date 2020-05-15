@@ -1,0 +1,2 @@
+# RobeSpriteCopier
+ただのファイルコピーツール
